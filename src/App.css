@@ -1,3 +1,8 @@
+html {
+  background-color: #212849;
+  font-size: 16px;
+}
+
 .App {
   text-align: center;
 }
@@ -26,6 +31,15 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.title {
+  font-family: 'Overpass', sans-serif;
+  font-size: 1rem;
+  line-height: 1.26rem;
+  font-weight: 900;
+  padding: 0 5px 0 5px;
+  color: #C6CFFF;
 }
 
 @keyframes App-logo-spin {
